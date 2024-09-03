@@ -1,0 +1,42 @@
+Paradigma de Programação:
+
+Python: Multi-paradigma (orientada a objetos, funcional, imperativa).
+JavaScript: Multi-paradigma (orientada a objetos baseada em protótipos, funcional, assíncrona).
+Java: Principalmente orientada a objetos.
+
+Execução e Ambiente:
+
+Python: Interpretada (executada diretamente pelo interpretador).
+JavaScript: Interpretada (principalmente no navegador, também no servidor com Node.js).
+Java: Compilada para bytecode e executada na Java Virtual Machine (JVM).
+
+Uso e Aplicações:
+
+Python: Versátil (desenvolvimento web, ciência de dados, automação).
+JavaScript: Desenvolvimento web (front-end e back-end), também usado em aplicativos móveis e desktop.
+Java: Aplicações corporativas, Android, sistemas grandes e complexos.
+
+
+Um codigo minimo sobre os mesmos.
+
+Python: 
+
+print("Olá, mundo!")
+
+
+
+Java script:
+
+alert("Olá, mundo!");
+
+
+
+
+Java:
+
+public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
+
